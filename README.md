@@ -19,28 +19,28 @@
 
 ### Design Inspirations
 
-https://dribbble.com/shots/popular/web-design
-https://in.pinterest.com/search/pins/?q=web%20design
-https://www.webdesign-inspiration.com/
+* https://dribbble.com/shots/popular/web-design
+* https://in.pinterest.com/search/pins/?q=web%20design
+* https://www.webdesign-inspiration.com/
 
 
 
 ### Color palettes
 
-https://flatuicolors.com/
-https://colorhunt.co/
-https://coolors.co/
+* https://flatuicolors.com/
+* https://colorhunt.co/
+* https://coolors.co/
 
 
 ### Fonts
 
-https://fonts.google.com/
+* https://fonts.google.com/
 
 
 ### CDNs
 
-https://www.jsdelivr.com/
-https://cdnjs.com/
+* https://www.jsdelivr.com/
+* https://cdnjs.com/
 
 
 
