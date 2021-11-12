@@ -1,0 +1,87 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 600px;
+  padding-top: 100px;
+}
+
+.row {
+  display: flex;
+  margin-top: 20px;
+}
+
+
+.block1 {
+  background-color: white;
+  width: 250px;
+  height: 120px;
+  color: #0c0c0c;
+  padding: 30px 10px 30px 10px;
+  font-size: 1.4rem;
+  float: left;
+}
+
+.block2 {
+  background-color: #e3e3e3;
+  width: 250px;
+  height: 120px;
+  color: #0c0c0c;
+  padding: 30px 10px 30px 10px;
+  font-size: 2.0rem;
+  margin-left: 20px;
+}
+
+.block3 {
+  background-color: #fefe16;
+  width: 250px;
+  height: 120px;
+  color: #0c0c0c;
+  padding: 30px 10px 30px 10px;
+  font-size: 2.0rem;
+  margin-left: -20px;
+}
+
+.block4 {
+  background-color: #223bed;
+  width: 250px;
+  height: 120px;
+  color: #0c0c0c;
+  padding: 30px 10px 30px 10px;
+  font-size: 2.0rem;
+  margin-left: 20px;
+}
+
+
+.block5 {
+  background-color: #262626;
+  width: 250px;
+  height: 120px;
+  color: #0c0c0c;
+  padding: 30px 10px 30px 10px;
+  font-size: 2.0rem;
+  margin-left: -40px;
+}
+
+.block6 {
+  background-color: white;
+  width: 250px;
+  height: 120px;
+  color: #0c0c0c;
+  padding: 30px 10px 30px 10px;
+  font-size: 2.0rem;
+  margin-left: 20px;
+}
+
+
+.card {
+  width: 20px;
+  background-color: antiquewhite;
+}
