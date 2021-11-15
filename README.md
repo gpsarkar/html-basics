@@ -17,6 +17,14 @@
 
 
 
+# Learn Browser Developer Tools
+
+* Firefox: https://developer.chrome.com/docs/devtools/
+* Chrome: https://developer.chrome.com/docs/devtools/ 
+
+
+# Links and references
+
 ### Design Inspirations
 
 * https://dribbble.com/shots/popular/web-design
@@ -44,8 +52,6 @@
 * https://cdnjs.com/
 
 Azure CDN (Private CDN)
-
-
 
 
 ### Docs
