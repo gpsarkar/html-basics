@@ -19,7 +19,7 @@
 
 # Learn Browser Developer Tools
 
-* Firefox: https://developer.chrome.com/docs/devtools/
+* Firefox: https://developer.mozilla.org/en-US/docs/Tools
 * Chrome: https://developer.chrome.com/docs/devtools/ 
 
 
