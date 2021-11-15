@@ -15,6 +15,11 @@
 1. Packaging & bundling - Webpack (Recommended), Gulp, (Transpiling & Minimizing)
 2. FTP (Not much in use now a days) - Filezilla 
 
+#### Preferred Browsers (no specific order of preference)
+ 
+* Firefox dev:  https://www.mozilla.org/en-US/firefox/developer/
+* Chrome: https://www.google.com/intl/en_in/chrome/
+* Firefox: https://www.mozilla.org/en-US/firefox/
 
 
 # Learn Browser Developer Tools
